@@ -184,7 +184,7 @@ flowchart LR
   <table>
     <tr>
       <td align="center" width="16%">
-        <sub><b>BACKEND CORE</b></sub><br/><br/>
+        <sub><b>BACKEND </b></sub><br/><br/>
         <img src="https://img.shields.io/badge/TIER-S_RANK-10b981?style=flat-square&labelColor=0f172a" alt="S Tier" /><br/>
         <sub>Java & Spring</sub>
       </td>
