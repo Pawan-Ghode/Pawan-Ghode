@@ -148,32 +148,32 @@ public class BackendEngineer {
   <table>
     <tr>
       <td align="center" width="140">
-        <b>🏆 Java & Spring</b><br/>
+        <b>🏆 Java & Spring </b><br/>
         <img src="https://img.shields.io/badge/Rank-S_Tier-10b981?style=for-the-badge" alt="S Tier" /><br/>
         <sub>Backend Core</sub>
       </td>
       <td align="center" width="140">
-        <b>🏆 LeetCode DSA</b><br/>
+        <b>🏆 LeetCode DSA </b><br/>
         <img src="https://img.shields.io/badge/Rank-AAA-a855f7?style=for-the-badge" alt="AAA" /><br/>
         <sub>400+ Solved</sub>
       </td>
       <td align="center" width="140">
-        <b>🏆 Commits</b><br/>
+        <b>🏆 Commits </b><br/>
         <img src="https://img.shields.io/badge/Rank-A+-f59e0b?style=for-the-badge" alt="A+" /><br/>
         <sub>Active Coder</sub>
       </td>
       <td align="center" width="140">
-        <b>🏆 Repositories</b><br/>
+        <b>🏆 Repositories </b><br/>
         <img src="https://img.shields.io/badge/Rank-AA-38bdf8?style=for-the-badge" alt="AA" /><br/>
         <sub>Open Source</sub>
       </td>
       <td align="center" width="140">
-        <b>🏆 Architecture</b><br/>
+        <b>🏆 Architecture </b><br/>
         <img src="https://img.shields.io/badge/Rank-A+-f43f5e?style=for-the-badge" alt="A+" /><br/>
         <sub>Microservices</sub>
       </td>
       <td align="center" width="140">
-        <b>🏆 Research</b><br/>
+        <b>🏆 Research </b><br/>
         <img src="https://img.shields.io/badge/Rank-S-0ea5e9?style=for-the-badge" alt="S" /><br/>
         <sub>Published Author</sub>
       </td>
