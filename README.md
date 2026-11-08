@@ -1,7 +1,37 @@
 <!-- ==================== DYNAMIC ARCHITECTURAL HEADER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=PAWAN%20JANARDHAN%20GHODE&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BACKEND%20SOFTWARE%20ENGINEER%20%20%7C%20%20DISTRIBUTED%20SYSTEMS%20%26%20MICROSERVICES&descAlignY=58&descSize=15" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=200&section=header&text=PAWAN%20GHODE&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20|%20Java%20&%20Spring%20Boot&descAlignY=62&descSize=16" width="100%" alt="Header Banner" />
 
+  <!-- ==================== ANIMATED TYPING TERMINAL ==================== -->
+  <a href="https://github.com/Pawan-Ghode">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%3E+Architecting+Fault-Tolerant+Java+%26+Spring+Boot+Microservices;%3E+Optimizing+High-Concurrency+Database+Locking+%26+Redis+Caching;%3E+Building+Asynchronous+Event-Driven+Pipelines+with+Apache+Kafka;%3E+400%2B+DSA+Problems+Solved+%7C+Top+10%25+Global+LeetCode+Contestant" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- ==================== QUICK NAVIGATION & CONTACT BAR ==================== -->
+  <p align="center">
+    <a href="https://pawan-ghode.github.io/about_me/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/pawan-ghode/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:pawanghode85@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-CONTACT-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Pawan-Ghode">
+      <img src="https://komarev.com/ghpvc/?username=Pawan-Ghode&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SDE_ROLES-10b981?style=flat-square&labelColor=1e293b" alt="Status" />
+  </p>
+</div>
+
+<br/>
   <!-- ==================== ANIMATED TYPING TERMINAL ==================== -->
   <a href="https://github.com/Pawan-Ghode">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%3E+Architecting+Fault-Tolerant+Java+%26+Spring+Boot+Microservices;%3E+Optimizing+High-Concurrency+Database+Locking+%26+Redis+Caching;%3E+Building+Asynchronous+Event-Driven+Pipelines+with+Apache+Kafka;%3E+400%2B+DSA+Problems+Solved+%7C+Top+10%25+Global+LeetCode+Contestant" alt="Typing SVG" />
