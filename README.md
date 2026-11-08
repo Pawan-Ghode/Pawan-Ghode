@@ -73,14 +73,10 @@ REST API Design &nbsp;·&nbsp; MVC Pattern &nbsp;·&nbsp; System Design (HLD) &n
 - Co-authored and published a research paper on an **AI-driven posture monitoring system**
 - Regular Devpost and HackerEarth participant, shipping backend features under 48-hour deadlines
 
-## GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pawan-Ghode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false" alt="Pawan-Ghode GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Ghode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pawan-Ghode&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+## GitHub
+<p align="left">
+  <a href="https://github.com/Pawan-Ghode?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositories-View%20All-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/Pawan-Ghode?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Pawan-Ghode?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b&color=1e293b" alt="Followers" /></a>
 </p>
 
 ## Connect with Me
