@@ -1,14 +1,9 @@
-name: Generate Snake Animation
+name: Generate Snake & Profile Stats
 
 on:
-  # Runs automatically every day at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  
-  # Allows you to run the workflow manually from the Actions tab
   workflow_dispatch:
-
-  # Runs whenever you push changes to the main branch
   push:
     branches:
       - main
@@ -21,6 +16,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Stats, Top Languages & Activity Graph SVGs
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyo_night
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
