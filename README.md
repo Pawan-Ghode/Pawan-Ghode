@@ -186,7 +186,7 @@ flowchart LR
       <td align="center" width="16%">
         <sub><b>BACKEND </b></sub><br/><br/>
         <img src="https://img.shields.io/badge/TIER-S_RANK-10b981?style=flat-square&labelColor=0f172a" alt="S Tier" /><br/>
-        <sub>Java & Spring</sub>
+        <sub>Java & Springboot</sub>
       </td>
       <td align="center" width="16%">
         <sub><b>ALGORITHMS</b></sub><br/><br/>
@@ -211,7 +211,7 @@ flowchart LR
       <td align="center" width="16%">
         <sub><b>PROTOTYPING</b></sub><br/><br/>
         <img src="https://img.shields.io/badge/SPRINTS-48_HR-0ea5e9?style=flat-square&labelColor=0f172a" alt="Hackathons" /><br/>
-        <sub>HackerEarth</sub>
+        <sub>DevPost/HackerEarth</sub>
       </td>
     </tr>
   </table>
