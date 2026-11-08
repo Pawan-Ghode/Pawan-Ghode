@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Pawan!
-### 🚀 Full Stack Java Developer
+# 👋 Hello, I'm Pawan Ghode!
+### 🚀 Backend Developer
 
 ![Banner](https://vercel.app)
 
