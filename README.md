@@ -143,43 +143,47 @@ public class BackendEngineer {
 
 <br/>
 
-<div align="center">
-  <!-- 100% Unbreakable GitHub Trophies Bar -->
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <b>🏆 Java & Spring </b><br/>
-        <img src="https://img.shields.io/badge/Rank-S_Tier-10b981?style=for-the-badge" alt="S Tier" /><br/>
-        <sub>Backend Core</sub>
-      </td>
-      <td align="center" width="140">
-        <b>🏆 LeetCode DSA </b><br/>
-        <img src="https://img.shields.io/badge/Rank-AAA-a855f7?style=for-the-badge" alt="AAA" /><br/>
-        <sub>400+ Solved</sub>
-      </td>
-      <td align="center" width="140">
-        <b>🏆 Commits </b><br/>
-        <img src="https://img.shields.io/badge/Rank-A+-f59e0b?style=for-the-badge" alt="A+" /><br/>
-        <sub>Active Coder</sub>
-      </td>
-      <td align="center" width="140">
-        <b>🏆 Repositories </b><br/>
-        <img src="https://img.shields.io/badge/Rank-AA-38bdf8?style=for-the-badge" alt="AA" /><br/>
-        <sub>Open Source</sub>
-      </td>
-      <td align="center" width="140">
-        <b>🏆 Architecture </b><br/>
-        <img src="https://img.shields.io/badge/Rank-A+-f43f5e?style=for-the-badge" alt="A+" /><br/>
-        <sub>Microservices</sub>
-      </td>
-      <td align="center" width="140">
-        <b>🏆 Research </b><br/>
-        <img src="https://img.shields.io/badge/Rank-S-0ea5e9?style=for-the-badge" alt="S" /><br/>
-        <sub>Published Author</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="left">📊 Engineering Metrics & Ranks</h2>
+<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <!-- Java & Spring -->
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
+      🏆 <b>Java & Spring</b><br>
+      <img src="https://shields.io" alt="S Tier" style="margin-top: 5px;"><br>
+      <small style="color: #8b949e;">Backend Core</small>
+    </td>
+    <!-- LeetCode DSA -->
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
+      🏆 <b>LeetCode DSA</b><br>
+      <img src="https://shields.io" alt="AAA" style="margin-top: 5px;"><br>
+      <small style="color: #8b949e;">400+ Solved</small>
+    </td>
+    <!-- Commits -->
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
+      🏆 <b>Commits</b><br>
+      <img src="https://shields.io" alt="A+" style="margin-top: 5px;"><br>
+      <small style="color: #8b949e;">Active Coder</small>
+    </td>
+    <!-- Repositories -->
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
+      🏆 <b>Repositories</b><br>
+      <img src="https://shields.io" alt="AA" style="margin-top: 5px;"><br>
+      <small style="color: #8b949e;">Open Source</small>
+    </td>
+    <!-- Architecture -->
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
+      🏆 <b>Architecture</b><br>
+      <img src="https://shields.io" alt="A+" style="margin-top: 5px;"><br>
+      <small style="color: #8b949e;">Microservices</small>
+    </td>
+    <!-- Research -->
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
+      🏆 <b>Research</b><br>
+      <img src="https://shields.io" alt="S" style="margin-top: 5px;"><br>
+      <small style="color: #8b949e;">Published Author</small>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
