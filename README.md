@@ -128,6 +128,24 @@ public class BackendEngineer {
 
 ### 📊 GitHub Analytics & Coding Activity
 
+<div align="center">
+  <!-- GitHub Stats & Top Languages (Fully Cached & Optimized) -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pawan-Ghode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&cache_seconds=86400&locale=en" alt="Pawan's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Ghode&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&cache_seconds=86400&locale=en" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- GitHub Streak Status Bar (Solid Connection) -->
+  <img src="https://streak-stats.demolab.com?user=Pawan-Ghode&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&cache_seconds=86400" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Trophies Bar (Cached for bypass) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Pawan-Ghode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&cache_seconds=86400" alt="GitHub Trophies" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -139,29 +157,11 @@ public class BackendEngineer {
   </picture>
 </div>
 
-<div align="center">
-  <!-- GitHub Stats & Top Languages Side by Side -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pawan-Ghode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" alt="Pawan's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Ghode&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <!-- GitHub Streak Status Bar -->
-  <img src="https://streak-stats.demolab.com?user=Pawan-Ghode&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 <div align="center">
-  <!-- GitHub Trophies Bar -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pawan-Ghode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Ghode&bg_color=0f172a&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+  <!-- Contribution Activity Graph (Load-optimized URL) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Ghode&bg_color=0f172a&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true&cache_seconds=86400" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
