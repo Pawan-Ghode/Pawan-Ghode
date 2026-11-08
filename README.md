@@ -128,6 +128,17 @@ public class BackendEngineer {
 
 ### 📊 GitHub Analytics & Coding Activity
 
+<br/>
+
+<div align="center">
+  <!-- Animated Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
 <div align="center">
   <!-- GitHub Stats & Top Languages Side by Side -->
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pawan-Ghode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" alt="Pawan's GitHub Stats" />
