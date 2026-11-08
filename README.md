@@ -129,10 +129,9 @@ public class BackendEngineer {
 ### 📊 GitHub Analytics & Coding Activity
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages (Self-Hosted via GitHub Actions - Zero Downtime) -->
-  <img height="175em" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/profile-summary-card-output/tokyo_night/3-stats.svg" alt="Pawan's GitHub Stats" />
-  <img height="175em" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/profile-summary-card-output/tokyo_night/2-most-commit-language.svg" alt="Top Languages" />
-  <img height="175em" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="Repos Per Language" />
+  <!-- GitHub Stats & Top Languages (Generated via GitHub Actions in output branch) -->
+  <img height="185em" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/github-stats.svg" alt="Pawan's GitHub Stats" />
+  <img height="185em" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br/>
@@ -145,8 +144,8 @@ public class BackendEngineer {
 <br/>
 
 <div align="center">
-  <!-- Contribution Activity Graph (Self-Hosted via GitHub Actions) -->
-  <img src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/profile-summary-card-output/tokyo_night/0-profile-details.svg" width="98%" alt="Contribution Graph" />
+  <!-- GitHub Trophies Bar (Generated via GitHub Actions in output branch) -->
+  <img src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/trophies.svg" width="98%" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -159,6 +158,15 @@ public class BackendEngineer {
     <img alt="github-snake" src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution Activity Graph (Generated via GitHub Actions in output branch) -->
+  <img src="https://raw.githubusercontent.com/Pawan-Ghode/Pawan-Ghode/output/activity-graph.svg" width="98%" alt="Contribution Graph" />
+</div>
+
+---
 
 <!-- ==================== FOOTER BANNER ==================== -->
 <div align="center">
