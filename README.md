@@ -153,7 +153,7 @@ public class BackendEngineer {
         <sub>Backend Core</sub>
       </td>
       <td align="center" width="140">
-        <b>🏆 LeetCode DSA</b><br/>
+        <b>🏆 LeetCode </b><br/>
         <img src="https://img.shields.io/badge/Rank-AAA-a855f7?style=for-the-badge" alt="AAA" /><br/>
         <sub>400+ Solved</sub>
       </td>
