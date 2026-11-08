@@ -211,7 +211,7 @@ flowchart LR
       <td align="center" width="16%">
         <sub><b>PROTOTYPING</b></sub><br/><br/>
         <img src="https://img.shields.io/badge/SPRINTS-48_HR-0ea5e9?style=flat-square&labelColor=0f172a" alt="Hackathons" /><br/>
-        <sub>Devpost / HackerEarth</sub>
+        <sub>HackerEarth</sub>
       </td>
     </tr>
   </table>
