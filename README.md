@@ -31,14 +31,6 @@
   </p>
 </div>
 
-<br/>
-  <!-- ==================== ANIMATED TYPING TERMINAL ==================== -->
-  <a href="https://github.com/Pawan-Ghode">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%3E+Architecting+Fault-Tolerant+Java+%26+Spring+Boot+Microservices;%3E+Optimizing+High-Concurrency+Database+Locking+%26+Redis+Caching;%3E+Building+Asynchronous+Event-Driven+Pipelines+with+Apache+Kafka;%3E+400%2B+DSA+Problems+Solved+%7C+Top+10%25+Global+LeetCode+Contestant" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
   <!-- ==================== QUICK NAVIGATION & CONTACT BAR ==================== -->
   <p align="center">
     <a href="https://pawan-ghode.github.io/about_me/" target="_blank">
