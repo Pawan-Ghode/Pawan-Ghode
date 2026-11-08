@@ -147,39 +147,39 @@ public class BackendEngineer {
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <!-- Java & Spring -->
-    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
-      🏆 <b>Java & Spring</b><br>
-      <img src="https://shields.io" alt="S Tier" style="margin-top: 5px;"><br>
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px; width: 16.6%;">
+      🏆 <b>Java & Spring</b><br><br>
+      <code style="color: #2ecc71; background-color: #1f242c; padding: 4px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #2ecc71;">RANK: S-TIER</code><br><br>
       <small style="color: #8b949e;">Backend Core</small>
     </td>
     <!-- LeetCode DSA -->
-    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
-      🏆 <b>LeetCode DSA</b><br>
-      <img src="https://shields.io" alt="AAA" style="margin-top: 5px;"><br>
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px; width: 16.6%;">
+      🏆 <b>LeetCode DSA</b><br><br>
+      <code style="color: #9b59b6; background-color: #1f242c; padding: 4px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #9b59b6;">RANK: AAA</code><br><br>
       <small style="color: #8b949e;">400+ Solved</small>
     </td>
     <!-- Commits -->
-    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
-      🏆 <b>Commits</b><br>
-      <img src="https://shields.io" alt="A+" style="margin-top: 5px;"><br>
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px; width: 16.6%;">
+      🏆 <b>Commits</b><br><br>
+      <code style="color: #e67e22; background-color: #1f242c; padding: 4px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #e67e22;">RANK: A+</code><br><br>
       <small style="color: #8b949e;">Active Coder</small>
     </td>
     <!-- Repositories -->
-    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
-      🏆 <b>Repositories</b><br>
-      <img src="https://shields.io" alt="AA" style="margin-top: 5px;"><br>
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px; width: 16.6%;">
+      🏆 <b>Repositories</b><br><br>
+      <code style="color: #3498db; background-color: #1f242c; padding: 4px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #3498db;">RANK: AA</code><br><br>
       <small style="color: #8b949e;">Open Source</small>
     </td>
     <!-- Architecture -->
-    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
-      🏆 <b>Architecture</b><br>
-      <img src="https://shields.io" alt="A+" style="margin-top: 5px;"><br>
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px; width: 16.6%;">
+      🏆 <b>Architecture</b><br><br>
+      <code style="color: #e74c3c; background-color: #1f242c; padding: 4px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #e74c3c;">RANK: A+</code><br><br>
       <small style="color: #8b949e;">Microservices</small>
     </td>
     <!-- Research -->
-    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 10px; width: 16.6%;">
-      🏆 <b>Research</b><br>
-      <img src="https://shields.io" alt="S" style="margin-top: 5px;"><br>
+    <td align="center" valign="top" style="border: 1px solid #30363d; padding: 12px; width: 16.6%;">
+      🏆 <b>Research</b><br><br>
+      <code style="color: #f1c40f; background-color: #1f242c; padding: 4px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #f1c40f;">RANK: S</code><br><br>
       <small style="color: #8b949e;">Published Author</small>
     </td>
   </tr>
