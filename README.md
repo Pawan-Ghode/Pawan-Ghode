@@ -31,28 +31,6 @@
   </p>
 </div>
 
-  <!-- ==================== QUICK NAVIGATION & CONTACT BAR ==================== -->
-  <p align="center">
-    <a href="https://pawan-ghode.github.io/about_me/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/pawan-ghode/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:pawanghode85@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-CONTACT-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Pawan-Ghode">
-      <img src="https://komarev.com/ghpvc/?username=Pawan-Ghode&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_SDE_ROLES-10b981?style=flat-square&labelColor=1e293b" alt="Status" />
-  </p>
-</div>
-
 <br/>
 
 <!-- ==================== 01 // SYSTEM SPECIFICATION ==================== -->
