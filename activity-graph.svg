@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="885" height="240" viewBox="0 0 885 240">
+  <defs>
+    <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect width="883" height="238" x="1" y="1" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="17" font-weight="700">Pawan-Ghode's Contribution &amp; Activity Graph</text>
+  <g stroke="#1e293b" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="50" y1="70" x2="845" y2="70"/>
+    <line x1="50" y1="110" x2="845" y2="110"/>
+    <line x1="50" y1="150" x2="845" y2="150"/>
+    <line x1="50" y1="195" x2="845" y2="195"/>
+  </g>
+  <polygon points="60,195 60,170 130,155 200,160 270,125 340,140 410,95 480,115 550,75 620,105 690,65 760,85 830,55 830,195" fill="url(#areaGrad)"/>
+  <polyline fill="none" stroke="#38bdf8" stroke-width="3.5" points="60,170 130,155 200,160 270,125 340,140 410,95 480,115 550,75 620,105 690,65 760,85 830,55"/>
+  <circle cx="60" cy="170" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="130" cy="155" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="200" cy="160" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="270" cy="125" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="340" cy="140" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="410" cy="95" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="480" cy="115" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="550" cy="75" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="620" cy="105" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="690" cy="65" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="760" cy="85" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/><circle cx="830" cy="55" r="4.5" fill="#ffffff" stroke="#38bdf8" stroke-width="3"/>
+  <text x="60" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Dec</text><text x="130" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Jan</text><text x="200" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Feb</text><text x="270" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Mar</text><text x="340" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Apr</text><text x="410" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">May</text><text x="480" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Jun</text><text x="550" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Jul</text><text x="620" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Aug</text><text x="690" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Sep</text><text x="760" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Oct</text><text x="830" y="218" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">Nov</text>
+</svg>

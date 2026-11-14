@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195">
+  <rect width="418" height="193" x="1" y="1" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+  <text x="25" y="36" fill="#38bdf8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Top Languages</text>
+  <clipPath id="bar-clip"><rect x="25" y="52" width="370" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#bar-clip)"><rect x="25" y="52" width="189" height="12" fill="#38bdf8"/><rect x="214" y="52" width="143" height="12" fill="#f59e0b"/><rect x="357" y="52" width="34" height="12" fill="#10b981"/><rect x="391" y="52" width="8" height="12" fill="#a855f7"/></g>
+  <circle cx="31" cy="91" r="6" fill="#38bdf8"/><text x="45" y="96" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Java <tspan fill="#64748b">(51.2%)</tspan></text><circle cx="221" cy="91" r="6" fill="#f59e0b"/><text x="235" y="96" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Jupyter Notebook <tspan fill="#64748b">(38.9%)</tspan></text><circle cx="31" cy="123" r="6" fill="#10b981"/><text x="45" y="128" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML <tspan fill="#64748b">(9.4%)</tspan></text><circle cx="221" cy="123" r="6" fill="#a855f7"/><text x="235" y="128" fill="#cbd5e1" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Python <tspan fill="#64748b">(0.6%)</tspan></text>
+</svg>
